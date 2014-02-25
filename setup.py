@@ -16,7 +16,7 @@ setup(
     license = 'Apache License, Version 2.0', 
     description='Django flatpages CKEditor integration and SEO values.',
     long_description=open('README.md', 'r').read() + open('AUTHORS.md', 'r').read() + open('CHANGELOG.md', 'r').read(),
-    url='https://github.com/hisie/django_extended_flatpages',
+    url='https://github.com/timofeimih/django-extended-flatpages',
     author='hisie',
     author_email='dcebrian@serincas.com',
     install_requires=[
